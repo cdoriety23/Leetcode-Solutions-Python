@@ -1,4 +1,4 @@
-class Solution:
+class Solution://Maxsubarry problem
     def maxSubArray(self, nums):
         currmax = nums[0]
         maxsum = nums[0]
